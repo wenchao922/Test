@@ -1,0 +1,40 @@
+E:\桌面\资源管理器 - 副本 (2)\ResourceManager\ResourceManager\obj\Debug\ResourceManager.exe
+E:\桌面\资源管理器 - 副本 (2)\ResourceManager\ResourceManager\obj\Debug\ResourceManager.pdb
+E:\桌面\资源管理器 - 副本 (2)\ResourceManager\ResourceManager\bin\Debug\ResourceManager.exe
+E:\桌面\资源管理器 - 副本 (2)\ResourceManager\ResourceManager\bin\Debug\ResourceManager.pdb
+E:\桌面\资源管理器 - 副本 (2)\ResourceManager\ResourceManager\obj\Debug\ResolveAssemblyReference.cache
+E:\桌面\资源管理器 - 副本 (2)\ResourceManager\ResourceManager\obj\Debug\ResourceManager.MainForm.resources
+E:\桌面\资源管理器 - 副本 (2)\ResourceManager\ResourceManager\obj\Debug\ResourceManager.Properties.Resources.resources
+E:\桌面\资源管理器 - 副本 (2)\ResourceManager\ResourceManager\obj\Debug\ResourceManager.csproj.GenerateResource.Cache
+E:\桌面\资源管理器\ResourceManager\ResourceManager\bin\Debug\ResourceManager.exe
+E:\桌面\资源管理器\ResourceManager\ResourceManager\bin\Debug\ResourceManager.pdb
+E:\桌面\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResolveAssemblyReference.cache
+E:\桌面\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.MainForm.resources
+E:\桌面\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.Properties.Resources.resources
+E:\桌面\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.csproj.GenerateResource.Cache
+E:\桌面\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.exe
+E:\桌面\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.pdb
+H:\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.exe
+H:\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.pdb
+H:\资源管理器\ResourceManager\ResourceManager\bin\Debug\ResourceManager.exe
+H:\资源管理器\ResourceManager\ResourceManager\bin\Debug\ResourceManager.pdb
+H:\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResolveAssemblyReference.cache
+H:\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.MainForm.resources
+H:\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.Properties.Resources.resources
+H:\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.csproj.GenerateResource.Cache
+C:\Documents and Settings\h\桌面\资料\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.exe
+C:\Documents and Settings\h\桌面\资料\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.pdb
+C:\Documents and Settings\h\桌面\资料\资源管理器\ResourceManager\ResourceManager\bin\Debug\ResourceManager.exe
+C:\Documents and Settings\h\桌面\资料\资源管理器\ResourceManager\ResourceManager\bin\Debug\ResourceManager.pdb
+C:\Documents and Settings\h\桌面\资料\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\h\桌面\资料\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.MainForm.resources
+C:\Documents and Settings\h\桌面\资料\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.Properties.Resources.resources
+C:\Documents and Settings\h\桌面\资料\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.csproj.GenerateResource.Cache
+C:\Documents and Settings\h\桌面\完成作品\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.exe
+C:\Documents and Settings\h\桌面\完成作品\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.pdb
+C:\Documents and Settings\h\桌面\完成作品\资源管理器\ResourceManager\ResourceManager\bin\Debug\ResourceManager.exe
+C:\Documents and Settings\h\桌面\完成作品\资源管理器\ResourceManager\ResourceManager\bin\Debug\ResourceManager.pdb
+C:\Documents and Settings\h\桌面\完成作品\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\h\桌面\完成作品\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.MainForm.resources
+C:\Documents and Settings\h\桌面\完成作品\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.Properties.Resources.resources
+C:\Documents and Settings\h\桌面\完成作品\资源管理器\ResourceManager\ResourceManager\obj\Debug\ResourceManager.csproj.GenerateResource.Cache

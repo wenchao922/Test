@@ -1,0 +1,8 @@
+obj\Debug\ResourceManager.exe
+obj\Debug\ResourceManager.pdb
+bin\Debug\ResourceManager.exe
+bin\Debug\ResourceManager.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ResourceManager.MainForm.resources
+obj\Debug\ResourceManager.Properties.Resources.resources
+obj\Debug\ResourceManager.csproj.GenerateResource.Cache
