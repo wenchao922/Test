@@ -1,0 +1,6 @@
+分享文档链接
+https://fourleafclover.gitbooks.io/wxapplet/content/c1.html
+
+小程序demo下载链接
+
+https://github.com/FourLeafClover/wxApplet

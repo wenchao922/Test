@@ -1,0 +1,42 @@
+.blog{
+  padding:19rpx;
+  background-color: green;
+}
+
+.blog .avatar {
+  width: 112rpx;
+  height: 112rpx;
+  border-radius: 50%;
+}
+
+.blog .name {
+  position: absolute;
+  left: 150rpx;
+  top: 19rpx;
+  color: white;
+}
+
+.blog .title {
+  background-color: green;
+  width: 100%;
+  color: white;
+  margin-bottom: 37rpx;
+}
+
+.blog .time {
+  position: absolute;
+  left: 148rpx;
+  top: 56rpx;
+  color: white;
+  font-size: 30rpx;
+}
+
+.detail{
+  padding: 19rpx;
+}
+
+.author{
+  position: relative;
+}
+
+@import "../../modules/wxParse/wxParse.wxss";
